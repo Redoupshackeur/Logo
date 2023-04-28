@@ -116,7 +116,7 @@ echo
 sleep 0.2
 echo " "
 
-xdg-open https://www.facebook.com/marmu.007/
+xdg-open https://www.facebook.com/Red.oupshack/
 
 cd $HOME
 
